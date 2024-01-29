@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melvin-Kalidozo&show_icons=true&theme=radical)
+
+
 <!--
 **Melvin-Kalidozo/Melvin-Kalidozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
