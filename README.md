@@ -1,20 +1,14 @@
 ### Hi there 👋
 
-#Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melvin-Kalidozo&show_icons=true&theme=radical)
+I am Melvin Kalidozo, a computer scientist with expertise in full-stack web development, desktop application development, and mobile application development.
 
 
-<!--
-**Melvin-Kalidozo/Melvin-Kalidozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a web application with reactjs for the front-end and nestjs for the backend
+- 🌱 I’m currently learning android development with java
+- 👯 I’m looking to collaborate on any project available. really 
+- 😁 interested in opportunities where I can apply my expertise.
+- 💬 Ask me about computer science*
+- 📫 How to reach me: mkalidozo3@gmail.com or can directly give a call +265880 59 33 91
+- 😄 Pronouns: He/him/his
+- ⚡ Fun fact: Computer scientists are adept at navigating multiple programming domains, making them versatile problem solvers in the tech world 😜
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
