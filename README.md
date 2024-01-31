@@ -3,8 +3,8 @@
 I am Melvin Kalidozo, a computer scientist with expertise in full-stack web development, desktop application development, and mobile application development.
 <br/>
 <br/>
+<img style="padding-left: 20px; width: 400px;" align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-  <img  style="padding-left:10px;" align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 
 - 🔭 I’m currently working on a web application with reactjs for the front-end and nestjs for the backend
