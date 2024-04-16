@@ -14,7 +14,7 @@ I am Melvin Kalidozo, a computer scientist with expertise in full-stack web deve
 - 💬 Ask me about computer science*
 - 📫 How to reach me: mkalidozo3@gmail.com or can directly give a call +265880 59 33 91
 - 😄 Pronouns: He/him/his
-- ⚡  Did you know that the term "bug" to describe a glitch or error in a computer program originated in 1947? It all started when Grace Hopper, a computer scientist, found an actual moth causing issues in the Harvard Mark II computer. She removed the moth and famously taped it to the computer's logbook, coining the term "debugging." So next time you're troubleshooting code, remember, you're following in the footsteps of Grace and her moth friend!😜
+- ⚡ Fun fact, did you know that the term "bug" to describe a glitch or error in a computer program originated in 1947? It all started when Grace Hopper, a computer scientist, found an actual moth causing issues in the Harvard Mark II computer. She removed the moth and famously taped it to the computer's logbook, coining the term "debugging." So next time you're troubleshooting code, remember, you're following in the footsteps of Grace and her moth friend!😜
 
 
 <br/>
