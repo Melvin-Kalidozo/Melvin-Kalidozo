@@ -96,24 +96,7 @@ I care deeply about human-centered design, AI integration, cloud deployment, and
 | ⚪ | Election Device Management Operator | Malawi Electoral Commission | Oct – Dec 2024 | Contract |
 | ⚪ | Junior Software Developer | INFI-Tech, Lilongwe | 2023 | Internship |
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Melvin-Kalidozo&show_icons=true&theme=default&title_color=0a2463&icon_color=0a2463&text_color=333333&border_color=e0e0e0&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin-Kalidozo&layout=compact&theme=default&title_color=0a2463&text_color=333333&border_color=e0e0e0&hide_border=false" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Melvin-Kalidozo&theme=default&hide_border=false&ring=0a2463&fire=0a2463&currStreakLabel=0a2463&border=e0e0e0)
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
