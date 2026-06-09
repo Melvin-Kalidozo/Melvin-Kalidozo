@@ -119,14 +119,7 @@ I care deeply about human-centered design, AI integration, cloud deployment, and
 
 `Next.js` `Node.js` `PostgreSQL` `Tailwind CSS`
 
----
 
-### 💪 Fithub
-> Fitness platform frontend connecting to a shared Django API backend. Features live data integration, skeleton loading states, Framer Motion animations, and a consistent navy/gold design system.
-
-`Next.js` `Django REST Framework` `Framer Motion` `Tailwind CSS`
-
----
 
 ## 📫 Get In Touch
 
