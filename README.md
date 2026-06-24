@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a2463?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/melvin-kalidozo-b20a84225)
 [![GitHub](https://img.shields.io/badge/GitHub-0a2463?style=flat-square&logo=github&logoColor=white)](https://github.com/Melvin-Kalidozo)
 [![Email](https://img.shields.io/badge/Email-0a2463?style=flat-square&logo=gmail&logoColor=white)](mailto:mkalidozo3@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a2463?style=flat-square&logo=vercel&logoColor=white)](melvin-kalidozo.goldenhour265.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a2463?style=flat-square&logo=vercel&logoColor=white)](https://melvin-kalidozo.goldenhour265.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Melvin-Kalidozo&style=flat-square&color=0a2463)
 
