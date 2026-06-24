@@ -54,6 +54,7 @@ I care deeply about human-centered design, AI integration, cloud deployment, and
 ![Flutter](https://img.shields.io/badge/Flutter-0a2463?style=flat-square&logo=flutter&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-0a2463?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-0a2463?style=flat-square&logo=rubyonrails&logoColor=white)
+![Plotly Dash](https://img.shields.io/badge/Plotly%20Dash-0a2463?style=flat-square&logo=plotly&logoColor=white)
 
 **Databases**
 
@@ -80,6 +81,9 @@ I care deeply about human-centered design, AI integration, cloud deployment, and
 ![VS Code](https://img.shields.io/badge/VS%20Code-0a2463?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![OpenMRS](https://img.shields.io/badge/OpenMRS-0a2463?style=flat-square&logo=openmrs&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-0a2463?style=flat-square&logo=swagger&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-0a2463?style=flat-square&logo=redis&logoColor=white)
+![Sidekiq](https://img.shields.io/badge/Sidekiq-0a2463?style=flat-square&logo=sidekiq&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-0a2463?style=flat-square&logo=gunicorn&logoColor=white)
 
 ---
 
@@ -96,18 +100,24 @@ I care deeply about human-centered design, AI integration, cloud deployment, and
 | ⚪ | Election Device Management Operator | Malawi Electoral Commission | Oct – Dec 2024 | Contract |
 | ⚪ | Junior Software Developer | INFI-Tech, Lilongwe | 2023 | Internship |
 
-
+---
 
 ## 🚀 Featured Projects
 
 ### 🏥 MaHIS — Malawi Health Information System
-> National health information system for the Malawi Ministry of Health. Rails 7 API backend, OpenMRS data model, offline CouchDB sync, JWT auth, and Sidekiq background processing. Migrates patient records from decentralised BHT-EMR facilities into a unified government database.
 
-`Ruby on Rails` `OpenMRS` `MySQL` `CouchDB` `Sidekiq` `JWT` `Swagger`
+> National health information system for the Malawi Ministry of Health, spanning three interconnected components across the full data lifecycle.
+>
+> **MaHIS-Core** is a Rails 7 API backend built on the OpenMRS data model, featuring JWT authentication, Sidekiq + Sidekiq-cron background job processing, Redis caching, CouchDB offline sync with live listener tasks, and Swagger API documentation. Includes a parallel-processing BHT-EMR → MaHIS data migration engine with automatic location/facility mapping, dynamic batch sizing, adaptive thread management, and real-time progress monitoring — migrating patient records from decentralised health facilities into a unified national database.
+>
+> **Mahis\_Reports** is a Python/Plotly Dash analytics platform serving the Ministry of Health with interactive dashboards and clinical reports. Features the **MNID (Maternal and Neonatal Indicator Dashboard)** — a modular dashboard tracking maternal and child health indicators across facilities and districts — backed by a pre-aggregation pipeline that computes facility × indicator × period coverage metrics into Parquet files for near-instant query performance over 1.7M+ raw rows. Deployed via Gunicorn/WSGI with Docker Compose support and a cron-driven data refresh scheduler.
+
+`Ruby on Rails 7` `OpenMRS` `MySQL` `Redis` `CouchDB` `Sidekiq` `JWT` `Swagger` `Python` `Plotly Dash` `Parquet` `Gunicorn` `Docker`
 
 ---
 
 ### 📈 Boomfx Journal
+
 > Forex trading journal SaaS platform targeting Malawian traders, with subscription tiers priced in MWK. Full-stack Next.js frontend with Django/DRF backend, PayChangu payment gateway integration, and subdomain-based deployment architecture.
 
 `Next.js` `Django` `PostgreSQL` `PayChangu` `Tailwind CSS`
@@ -115,11 +125,12 @@ I care deeply about human-centered design, AI integration, cloud deployment, and
 ---
 
 ### 🏠 Trust Accommodation
+
 > Student housing admin platform with property listings, room management, booking workflows, agent verification, and payment tracking. Built with Next.js and a Node.js CRUD backend.
 
 `Next.js` `Node.js` `PostgreSQL` `Tailwind CSS`
 
-
+---
 
 ## 📫 Get In Touch
 
