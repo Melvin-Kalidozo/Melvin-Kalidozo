@@ -87,9 +87,9 @@ I care deeply about human-centered design, AI integration, cloud deployment, and
 
 | | Role | Organisation | Period | Type |
 |--|------|-------------|--------|------|
-| 🟢 | Software Developer — MaHIS | HISP University of Malawi · Ministry of Health | Jun 2026 – Present | Internship |
-| 🟢 | Founder & Managing Director | Goldenhour | Jul 2025 – Present | Founder |
-| 🟢 | Software Developer & IT Officer | Nooble Minds, Lilongwe | Jan 2024 – Present | Part-time |
+| ⚪ | Software Developer — MaHIS | HISP University of Malawi · Ministry of Health | Jun 2026  | Internship |
+| ⚪ | Founder & Managing Director | Goldenhour | Jul 2025 - 2026 | Founder |
+| ⚪ | Software Developer & IT Officer | Nooble Minds, Lilongwe | Jan 2024 - 2026 | Part-time |
 | ⚪ | Front-End Developer & Integrations | Dreamcode Malawi, Blantyre | Oct 2025 – Jan 2026 | Contract |
 | ⚪ | Software Developer (Attachment) | HISP University of Malawi | Feb 2026 – May 2026 | Attachment |
 | ⚪ | Vice Project Coordinator | UNIMA Computing Society | 2024 – 2025 | Volunteer |
